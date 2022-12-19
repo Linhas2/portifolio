@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="fill-height banana">
     <div class="bordatop">
-      <v-img
+      <img
         contain
         height="350"
         src="src/assets/dev.png"
