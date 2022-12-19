@@ -1,10 +1,10 @@
 <template>
   <v-container fluid class="fill-height banana">
     <div class="bordatop">
-      <img
+      <v-img
         contain
         height="350"
-        src="src/assets/dev.png"
+        src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
       />
     </div>
 
