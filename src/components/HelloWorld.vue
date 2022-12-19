@@ -4,7 +4,7 @@
       <v-img
         contain
         height="350"
-        src="src/dev.gif"
+        src="dev.gif"
       />
     </div>
 
