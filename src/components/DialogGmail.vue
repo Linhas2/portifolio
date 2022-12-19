@@ -37,7 +37,7 @@
             ></v-text-field>
           
         <div>
-          <button class="bg-black py-2 px-8 text-white texte">Enviar</button>
+          <button class="bg-black py-2 px-8 text-white texte">SEND</button>
         </div>
         </div>
     </form>
