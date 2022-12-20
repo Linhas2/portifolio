@@ -8,7 +8,7 @@
       />
     </div>
 
-      <div class="text-body-2 font-weight-light mb-n1 d-flex align-center justify-center">Portifolio of</div>
+      <div class="text-body-2 font-weight-light mb-n1 d-flex align-center justify-center">Portfolio of</div>
       <h1 class="text-h2 font-weight-bold d-flex align-center justify-center">Guilherme Linhares</h1>
 
       <v-row class="d-flex align-center justify-center bordatop2">
